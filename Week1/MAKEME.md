@@ -5,8 +5,7 @@
 ### Learning goals for this week
 
 ```
-for test porpose ########
-########
+how are you
  • Introduction to ARIA:
     • What is ARIA and why is it important?
     • Using ARIA in HTML
