@@ -2,15 +2,10 @@
 
 > [Here](/Week2/README.md) you find the readings you have to complete before the second lecture.
 
-### Learning goals for this week:
+### Learning goals for this week
 
 ```
- • The division of labor between HTML and CSS
- • Introduction to HTML:
-    • Parents, children, attributes
-    • Indentation
-    • Semantic elements
-    • Paragraphs, links, images, lists
+
  • Introduction to ARIA:
     • What is ARIA and why is it important?
     • Using ARIA in HTML
@@ -34,7 +29,7 @@ Before you start check out this [video](http://www.learningscientists.org/videos
 
 Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
-#### CSS:
+#### CSS
 
 - [CSS reference](http://cssreference.io/)
 - [MDN - Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
@@ -76,7 +71,7 @@ _Deadline Saturday_
     - Make sure that you page looks nice, and that your text is readable & accessible (ARIA)
   - BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
 
-### How to hand in Homework:
+### How to hand in Homework
 
 _Steps_:
 
@@ -91,19 +86,19 @@ _Steps_:
 6. Open the files in your folder to check if all of this worked.
 7. Now go to the settings of your repository:![settings overview](./assets/github_pages1.png)
 8. And go to _Github Pages_ select "master" instead of "none"![pages overview](./assets/github_pages2.png)
-9. Now you can view your homework online at: https://_hereyouplaceyourgithubusername_/hyf-html-css/week1
+9. Now you can view your homework online at: <https://>_hereyouplaceyourgithubusername_/hyf-html-css/week1
 10. Please upload a link to your homework in Trello.
 
-### Here is an example of how your homework repository should look:
+### Here is an example of how your homework repository should look
 
-- https://github.com/mkruijt/HTML-CSS
+- <https://github.com/mkruijt/HTML-CSS>
 - In the README file there are links to the homework hosted by Github!
 
-### Fun to check out:
+### Fun to check out
 
 [Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
 
-### Tools for testing accessibility:
+### Tools for testing accessibility
 
 Chrome: [Accessibility for developer](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 
